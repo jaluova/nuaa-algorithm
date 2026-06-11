@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Obsidian workspace (personal state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Browser profiles
+.browser-profile/
+
+# Datasets & large data files
+*.ubyte
+*.idx*
+
+# IDE
+.vscode/
+.idea/
+
+# Claude local settings (personal paths)
+.claude/settings.local.json
