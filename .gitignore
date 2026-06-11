@@ -29,5 +29,5 @@ node_modules/
 .vscode/
 .idea/
 
-# Claude local settings (personal paths)
-.claude/settings.local.json
+# Claude
+.claude/
