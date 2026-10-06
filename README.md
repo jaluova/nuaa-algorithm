@@ -1,3 +1,7 @@
+> **资料已迁移**：[NUAA 课程笔记 · 算法设计与分析](https://github.com/jaluova/nuaa-course-notes/tree/main/algorithms)。
+>
+> 后续更新统一在新仓库维护。本仓库保留原资料与提交历史。
+
 # NUAA 算法设计与分析
 
 南京航空航天大学算法设计与分析课程笔记、代码与复习资料。
